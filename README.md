@@ -1,7 +1,13 @@
+![Portada](./hundir-la-flota-juego-de-mesa.jpg)
 ## JUEGO HUNDIR LA FLOTA EN PYTHON
 Este es un programa básico que simula el juego 'Hundir la flota' ('Battleship'), desarrollado en lenguaje Python(3).
+<<<<<<< HEAD
 El juego empieza a ejecutarse con el archivo _main_.py
 *HUNDIR LA FLOTA* comienza por un menú creado con dos opciones: Una primera opción para jugar y otra segunda opción para salir del juego. Habiendo selecciondo la opcion "Jugar" comenzará la generación de tableros, con un tamaño de 10 x 10, donde se crearán aleatoriamente 10 barcos mediante el tamaño de sus esloras, un total de 20:
+=======
+El juego empieza a ejecutarse con el archivo _main_.py.
+*HUNDIR LA FLOTA* comienza por un menú creado con dos opciones: Una primera opción para jugar y otra segunda opción para salir del juego. Habiendo selecciondo la opcion "Jugar", comenzará la generación de tableros, con un tamaño de 10 x 10, donde se crearán aleatoriamente 10 barcos mediante el tamaño de sus esloras, un total de 20:
+>>>>>>> c21b712c2d7cd6dcd1e077432952e69f636913b6
 * 4 barcos de 1 posición de eslora
 * 3 barcos de 2 posiciones de eslora
 * 2 barcos de 3 posiciones de eslora
@@ -26,3 +32,10 @@ Importante destacar que la franja de valores del input del jugador 1 queda limit
 ### Final
 El juego acaba cuando uno de los dos jugadores acaben con todos los barcos del contrario, es decir, cuando ya no haya 'O' en el tablero de algunos de los jugadores, y mostrará por pantalla al jugador 1 si ha sido vencedor o perdedor. 
 En el caso de que el jugador 2 se quede sin barcos, el jugador 1 será el ganador.
+
+### REALIZADO POR:
+
+  * Mª Angeles Naranjo 
+  * Guillermo Martín
+  * Alberto Lázaro
+  * Mario Ochoa
